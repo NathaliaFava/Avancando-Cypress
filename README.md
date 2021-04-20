@@ -10,5 +10,5 @@
 :speech_balloon: <b>O que é Commands?</b>
 <p> São comandos personalizados. Desta forma, separei as ações(interações do usuário) dos elementos da página, por exemplo. </p>
 <br>
-:speech_balloon: <b>O que é Fixture?</b>
-<p> São os <i>mocks</i>, isto é, são alguns dados que precisei deixar <i>chumbado</i> no código a fim de reutilizá-lo. Existem momentos que é necessário o uso do Chance, mas existem momentos em que a fixture nos auxilia também.</p>
+:speech_balloon: <b>O que é Fixtures?</b>
+<p> São os <i>mocks</i>, isto é, são alguns dados que precisei deixar <i>chumbado</i> no código a fim de reutilizá-lo. Existem momentos que é necessário o uso do Chance, mas existem momentos em que só usar Fixstures já basta.</p>
