@@ -58,7 +58,7 @@ describe('Realizar Cadastro de Usuário no Fã-Clube da Joelma', () => {
             this.user.password,
             this.user.passwordConfirmation
         )
-        cy.get(elements.register.alerts).should('have.text','×    Alerta !  Este e-mail já esta sendo ultilizado. Se você esqueceu sua senha clique -> aqui ou caso contrário faça o login em sua conta');
+        cy.get(elements.register.alerts).should('have.text', '×    Alerta !  Este e-mail já esta sendo ultilizado. Se você esqueceu sua senha clique -> aqui ou caso contrário faça o login em sua conta');
     })
 
 });
